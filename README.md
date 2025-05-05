@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi, I’m Joydeep Das — a passionate AI/ML developer and problem solver who thrives on turning complex ideas into impactful, real-world solutions.<br><br>🚀 What I Do:<br>Build intelligent systems across Machine Learning, Deep Learning, and Generative AI<br><br>Work with tools like Python, SQL, LangChain, Hugging Face, YOLO, Streamlit, and XGBoost<br><br>Solve real problems through projects like:<br><br>🧠 Medical Reasoning Chatbots using LLMs (Gemma, LoRA, Chain-of-Thought)<br><br>🎯 Real-time Drone Detection & Jamming using YOLO<br><br>📱 AI-powered Assistance for Visually Impaired (OCR + TTS)<br><br>🧬 Audio Similarity Search using Speech Embeddings<br><br>🧪 Insurance Risk Prediction & Modeling with Clean ML Pipelines<br><br>📚 Beyond Code:<br>Presented and authored research papers in AI/ML & computer vision<br><br>Actively explore the ethics and societal impact of AI<br><br>Constantly tinkering with new models, tools, and ideas<br><br>💡 Why I Build:<br>Because I believe AI isn’t just about automation — it’s about augmentation. Enhancing human life, accessibility, safety, and decision-making through thoughtful engineering.<br><br>🔍 Always Exploring:<br>Open to collaborations, internships, and opportunities to apply AI in innovative ways — especially where it solves real problems.
+Hi, I’m Joydeep Das — a passionate AI/ML Enthusiast and problem solver who thrives on turning complex ideas into impactful, real-world solutions.
+
+## 🚀 What I Do:
+- Build intelligent systems across Machine Learning, Deep Learning, and Generative AI  
+- Work with tools like Python, SQL, LangChain, Hugging Face, YOLO, Streamlit, and XGBoost  
+- Solve real problems through projects like:
+  - 🧠 Medical Reasoning Chatbots using LLMs (Gemma, LoRA, Chain-of-Thought)  
+  - 🎯 Real-time Drone Detection & Jamming using YOLO  
+  - 📱 AI-powered Assistance for Visually Impaired (OCR + TTS)  
+  - 🧬 Audio Similarity Search using Speech Embeddings  
+  - 🧪 Insurance Risk Prediction & Modeling with Clean ML Pipelines  
+
+## 📚 Beyond Code:
+- Presented and authored research papers in AI/ML & computer vision  
+- Actively explore the ethics and societal impact of AI  
+- Constantly tinkering with new models, tools, and ideas  
+
+## 💡 Why I Build:
+Because I believe AI isn’t just about automation — it’s about augmentation. Enhancing human life, accessibility, safety, and decision-making through thoughtful engineering.
+
+## 🔍 Always Exploring:
+Open to collaborations, internships, and opportunities to apply AI in innovative ways — especially where it solves real problems.
+
 
 
 ## 🌐 Socials:
